@@ -1,0 +1,14 @@
+Metadata-Version: 2.2
+Name: evolvepro
+Version: 1.0
+License-File: LICENSE.txt
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: scikit-learn
+Requires-Dist: scikit-learn-extra
+Requires-Dist: xgboost
+Requires-Dist: matplotlib
+Requires-Dist: seaborn
+Requires-Dist: biopython
+Requires-Dist: scipy
+Dynamic: requires-dist
